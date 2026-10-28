@@ -93,50 +93,46 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 45 mins       █████████████░░░░░░░░░░░░   51.78 % 
-Other                    2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
-CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   40.97 % 
+JavaScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
+CSS                      1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████░░░░░░░░   66.46 % 
-Copilot CLI              2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
+VS Code                  2 hrs 53 mins       ███████████████░░░░░░░░░░   61.65 % 
+Copilot CLI              1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   38.35 % 
 Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-birthday-letter          4 hrs 34 mins       ████████████████░░░░░░░░░   62.91 % 
-birthday-letter-project  2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-src                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-components               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-public                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+birthday-letter          4 hrs 39 mins       █████████████████████████   99.20 % 
+Notebook                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (85.79%)
+⏱ AI Coding Time: 4 hrs 37 mins (98.36%)
 
-✍️ 2,765 lines written by AI, 153 lines written by hand (94.76% AI-written)
+✍️ 61 lines written by AI, 124 lines written by hand (32.97% AI-written)
 
-🔤 433,447 Input Tokens, 30,316 Output Tokens
+🔤 340,759 Input Tokens, 38,820 Output Tokens
 
-💵 $0.76 Estimated AI Cost This Week
+💵 $0.21 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 97 AI Prompts
+🧠 9 AI Sessions, 68 AI Prompts
 
-Github-Copilot           1,923 lines         ███████████████░░░░░░░░░░   60.82 % 
-Vscode                   737 lines           ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-GPT                      502 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+GPT                      457 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.76% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.37% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 32.97% of written lines came from AI
+📝 Concise Prompter — average 127 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 22.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +152,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakthi0x/sakthi0x/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 03:10:06 UTC
+ Last Updated on 28/10/2026 03:23:33 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
