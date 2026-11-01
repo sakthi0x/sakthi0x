@@ -93,44 +93,38 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 13 mins        ████████████████░░░░░░░░░   63.55 % 
-JavaScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 1 min               ████████████████████░░░░░   79.60 % 
+TypeScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        ████████████████░░░░░░░░░   65.50 % 
-Copilot CLI              39 mins             █████████░░░░░░░░░░░░░░░░   34.50 % 
+Copilot CLI              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-birthday-letter          1 hr 52 mins        █████████████████████████   98.04 % 
-Notebook                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Notebook                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (98.05%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 57,984 Input Tokens, 7,120 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 28 AI Prompts
-
-GPT                      8 lines             █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +144,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakthi0x/sakthi0x/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 03:32:56 UTC
+ Last Updated on 01/11/2026 03:39:29 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
